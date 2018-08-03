@@ -1,0 +1,37 @@
+body{
+    background: linear-gradient(rgb(255, 239, 149),rgb(255, 190, 215)); 
+    background-size:1400PX; 
+}
+
+h1{
+color:rgb(77, 7, 53);
+text-align: center;
+margin-bottom: 2em;
+}
+
+
+table{
+margin-top: 10em;
+}
+
+table tr td{
+    font-family:'Courier New', Courier, monospace,bold;
+  
+    width: 300px;
+    height: 200px;
+margin-top: 10px;
+margin-left: 10px;
+size: 20px;
+}
+
+.formu button, .formu input, .formu textarea{
+    width:80%;
+    margin-right: 3em;
+    padding:1em;
+    border:1px solid #c9e6ff;
+  }
+  .formu button{
+    background:#c9e6ff;
+    border:0;
+    text-transform: uppercase;
+  }
