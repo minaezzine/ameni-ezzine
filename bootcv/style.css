@@ -1,0 +1,42 @@
+
+body{
+
+background-color: #FFFACD;
+
+}
+.jumbotron{
+	height: 500px;
+	background: url('https://images.unsplash.com/photo-1415025148099-17fe74102b28?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=1d2697309ae275b27d03270feb9d73e6&auto=format&fit=crop&w=1440&q=80');
+	background-size: cover;
+	background-position: center;
+}
+h1{
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    text-align :center;
+    color: aliceblue;
+    text-shadow: 1px 1px 2px white, 0 0 25px pink, 0 0 5px palevioletred;
+    margin-top: 60px;
+    size:100px;
+}
+
+h2{
+    font-family: Comic Sans MS, Comic Sans, cursive ,bold;;
+    color:#FFD700 !important;
+    text-align :center;
+    margin-top: 70px;
+  
+}
+.btns{
+
+    text-align:center;
+}    
+.col-md-2 {
+	transform: rotate(360deg);
+	transition:2s;
+	text-align:left;
+	margin-top: 20px;
+    }
+.col-md-2 i{
+		padding:20px;
+		}
+		

@@ -1,0 +1,19 @@
+body{
+    background:papayawhip;
+}
+h4 {
+text-align: left;
+color: palevioletred;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+
+}
+
+.carousel-caption{
+    
+}
+.carousel-caption h3 {
+    color:black;
+}
+item{
+    height: 400px;
+}

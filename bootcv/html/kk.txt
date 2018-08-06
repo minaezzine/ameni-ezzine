@@ -1,0 +1,13 @@
+<aside class="layout-post__aside">
+					<img alt="Britt Pollock" src="https://getflywheel.com/wp-content/uploads/2017/06/Britt-Pollock_avatar_1497980813-80x80.jpg" class="avatar avatar-80 photo" height="80" width="80">
+					<a href="https://getflywheel.com/layout/category/inspiration/" class="layout-post__tag layout-tag--inspiration">Inspiration</a>
+
+					<div class="layout-post__share">
+						<div id="share-fb--top" class="sharrre"><a href="#" class="share__fb"></a></div>
+						<div id="share-tw--top"><a href="https://twitter.com/intent/tweet?text=33 JavaScript libraries and frameworks to check out in 2018+via+%40HeyFlywheel&amp;url=https%3A%2F%2Fgetflywheel.com%2Flayout%2Fjavascript-libraries-frameworks-2018%2F" class="share__tw" target="_blank"></a></div>
+						<div id="share-li--top" class="sharrre"><a href="#" class="share__li"></a></div>
+						<div id="share-pi--top">
+							<a data-pin-do="buttonBookmark" data-pin-custom="true" class="share__pi" data-pin-log="button_pinit_bookmarklet" data-pin-href="https://fr.pinterest.com/pin/create/button/"></a>
+						</div>
+					</div>
+				</aside>

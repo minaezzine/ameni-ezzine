@@ -1,0 +1,26 @@
+
+body{
+  background: beige;
+} 
+.w3-display-container{
+height: 30%;
+width: 50%;
+}
+.w3-display-container{
+  border-radius :100%!important ;
+  
+  margin-left: 2em;
+  margin-top: 2em;
+  height: 300px;
+  width: 300px;
+}
+
+h2{
+  color:rgb(186, 233, 219);
+}
+.w3-light-grey{
+  background: beige;
+}
+.w3-content-w3-margin-top .w3-row-padding .w3-third .w3-white .w3-text-grey-w3-card-4   .w3-display-container{
+  background: rgb(240, 221, 186);
+}
